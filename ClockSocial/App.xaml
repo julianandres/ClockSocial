@@ -1,0 +1,26 @@
+﻿<Application
+    x:Class="ClockSocial.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:models="clr-namespace:ClockSocial.Models"
+    > 
+
+    <!--Recursos de la aplicación-->
+    <Application.Resources>
+        <local:LocalizedStrings xmlns:local="clr-namespace:ClockSocial" x:Key="LocalizedStrings"/>
+        <models:Alarmas x:Key="alarmas" x:Name="alarmas"/>
+        <models:Noticias x:Key="noticias" x:Name="noticias"/>
+        <models:Historias x:Key="historias" x:Name="historias"/>
+        <models:Usuario x:Key="usuario" x:Name="usuario"/>
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Objeto requerido que controla los eventos de duración de la aplicación-->
+        <shell:PhoneApplicationService
+            Launching="Application_Launching" Closing="Application_Closing"
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>

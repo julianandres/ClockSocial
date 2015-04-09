@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="ClockSocial" EntryPointType="ClockSocial.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="ClockSocial" Source="ClockSocial.dll" />
+    <AssemblyPart x:Name="Coding4Fun.Toolkit.Controls" Source="Coding4Fun.Toolkit.Controls.dll" />
+    <AssemblyPart x:Name="Coding4Fun.Toolkit" Source="Coding4Fun.Toolkit.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="System.Net.Http" Source="System.Net.Http.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Extensions" Source="System.Net.Http.Extensions.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Primitives" Source="System.Net.Http.Primitives.dll" />
+    <AssemblyPart x:Name="WinPhoneControls.Core" Source="WinPhoneControls.Core.dll" />
+    <AssemblyPart x:Name="WinPhoneControls.Input" Source="WinPhoneControls.Input.dll" />
+    <AssemblyPart x:Name="WinPhoneControls.Primitives" Source="WinPhoneControls.Primitives.dll" />
+    <AssemblyPart x:Name="Sqlite" Source="Sqlite.dll" />
+  </Deployment.Parts>
+</Deployment>

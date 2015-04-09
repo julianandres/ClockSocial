@@ -1,0 +1,257 @@
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\App.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\MainPage.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\Registro.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.g.resources
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.Resources.AppResources.resources
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.csproj.GenerateResource.Cache
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\ApplicationIcon.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.pdb
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\resources.pri
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\AppxManifest.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.build.appxrecipe
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Properties\WMAppManifest.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\AppManifest.xaml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial_Debug_x86.xap
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Coding4Fun.Toolkit.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Microsoft.Phone.Controls.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Sqlite.winmd
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Sqlite.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.pdb
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\priconfig.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\priconfig.xml.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\layout.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\layout.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\resources.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\resources.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\pri.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\pri.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\qualifiers.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ProjectArchitectures.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\MDILProjectFiles.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\XapCacheFile.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\IniciarSesion.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\Perfil.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Newtonsoft.Json.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Extensions.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Primitives.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\Newtonsoft.Json.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Extensions.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Primitives.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http.pri
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\qualifiers.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.csprojResolveAssemblyReference.cache
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\layout.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\layout.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\Resources.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\Resources.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\pri.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\pri.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\priconfig.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\priconfig.xml.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\x86\Debug\NuevaAlarma.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.pdb
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\resources.pri
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\AppxManifest.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.build.appxrecipe
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Coding4Fun.Toolkit.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Sqlite.winmd
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\Sqlite.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Extensions.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\System.Net.Http.Primitives.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\App.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\IniciarSesion.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\MainPage.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\NuevaAlarma.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\Perfil.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\Registro.g.cs
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.g.resources
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.Resources.AppResources.resources
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.pdb
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http.pri
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\priconfig.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\layout.resfiles
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\resources.resfiles
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\pri.resfiles
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\qualifiers.txt
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial_Debug_x86.xap
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\MDILProjectFiles.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\WinPhoneControls.Core.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\WinPhoneControls.Input.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\WinPhoneControls.Primitives.dll
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\ClockSocial.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\layout.resfiles
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\pri.resfiles
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\priconfig.xml
+C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\System.Net.Http\priconfig.xml.intermediate

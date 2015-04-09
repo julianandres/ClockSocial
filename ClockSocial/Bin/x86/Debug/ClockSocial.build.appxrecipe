@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JULIAN</Machine>
+    <WindowsUser>Julian</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>b7a5c4fa-bcbd-43cc-b76a-84bbf47c28f5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Julian\Documents\ClockSocial\ClockSocial\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\ClockSocial.dll">
+      <PackagePath>ClockSocial.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\Coding4Fun.Toolkit.dll">
+      <PackagePath>Coding4Fun.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WinPhoneControls.1.0.1\lib\WinPhoneControls.Core.dll">
+      <PackagePath>WinPhoneControls.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WinPhoneControls.1.0.1\lib\WinPhoneControls.Input.dll">
+      <PackagePath>WinPhoneControls.Input.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WinPhoneControls.1.0.1\lib\WinPhoneControls.Primitives.dll">
+      <PackagePath>WinPhoneControls.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\sqlite-net-wp8.3.8.5\build\windowsphone8\x86\Sqlite.dll">
+      <PackagePath>Sqlite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\cs\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>cs\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\da\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>da\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\de\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>de\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\es\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>es\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\fr\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>fr\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\it\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>it\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\ko\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>ko\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\no\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>no\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\pl\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>pl\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\pt\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>pt\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\ru\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>ru\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Coding4Fun.Toolkit.Controls.2.0.9\lib\windowsphone8\sk\Coding4Fun.Toolkit.Controls.resources.dll">
+      <PackagePath>sk\Coding4Fun.Toolkit.Controls.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\WPtoolkit.4.2013.08.16\lib\wp8\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\sqlite-net-wp8.3.8.5\build\windowsphone8\x86\Sqlite.winmd">
+      <PackagePath>Sqlite.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.xml">
+      <PackagePath>System.Net.Http.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml">
+      <PackagePath>System.Net.Http.Extensions.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml">
+      <PackagePath>System.Net.Http.Primitives.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\SQLite.WP80\3.8.8.3\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\add.png">
+      <PackagePath>Assets\Icons\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\cancel.png">
+      <PackagePath>Assets\Icons\cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\check.png">
+      <PackagePath>Assets\Icons\check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\delete.png">
+      <PackagePath>Assets\Icons\delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\edit.png">
+      <PackagePath>Assets\Icons\edit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\feature.alarm.png">
+      <PackagePath>Assets\Icons\feature.alarm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\feature.settings.png">
+      <PackagePath>Assets\Icons\feature.settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\g3409.png">
+      <PackagePath>Assets\Icons\g3409.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\image3385.png">
+      <PackagePath>Assets\Icons\image3385.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\image3386.png">
+      <PackagePath>Assets\Icons\image3386.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\image3387.png">
+      <PackagePath>Assets\Icons\image3387.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\rect4136.png">
+      <PackagePath>Assets\Icons\rect4136.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\save.png">
+      <PackagePath>Assets\Icons\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Icons\share.png">
+      <PackagePath>Assets\Icons\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Julian\Documents\ClockSocial\ClockSocial\Bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

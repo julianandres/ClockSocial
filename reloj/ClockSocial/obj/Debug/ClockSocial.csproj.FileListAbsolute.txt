@@ -1,0 +1,205 @@
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial.dll
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial.pdb
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\resources.pri
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\AppxManifest.xml
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial.build.appxrecipe
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\AppManifest.xaml
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial_Debug_AnyCPU.xap
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\App.g.cs
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\MainPage.g.cs
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.g.resources
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.Resources.AppResources.resources
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.csproj.GenerateResource.Cache
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.dll
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.pdb
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\priconfig.xml
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\priconfig.xml.intermediate
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\layout.resfiles
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\layout.resfiles.intermediate
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\resources.resfiles
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\resources.resfiles.intermediate
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\pri.resfiles
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\pri.resfiles.intermediate
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\qualifiers.txt
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\qualifiers.txt.intermediate
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ProjectArchitectures.txt
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\MDILProjectFiles.xml
+c:\users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\XapCacheFile.xml
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Coding4Fun.Toolkit.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.csprojResolveAssemblyReference.cache
+C:\Users\ju\documents\visual studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\Registro.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\ApplicationIcon.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial.pdb
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\resources.pri
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\AppxManifest.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial.build.appxrecipe
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Properties\WMAppManifest.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\AppManifest.xaml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ClockSocial_Debug_AnyCPU.xap
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Coding4Fun.Toolkit.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\cs\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\da\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\de\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\es\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fr\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\it\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ko\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\no\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pl\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pt\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ru\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sk\Coding4Fun.Toolkit.Controls.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\App.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\MainPage.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\Registro.g.cs
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.g.resources
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.Resources.AppResources.resources
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.csproj.GenerateResource.Cache
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.dll
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ClockSocial.pdb
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\priconfig.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\priconfig.xml.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\layout.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\layout.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\resources.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\resources.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\pri.resfiles
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\pri.resfiles.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\qualifiers.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\qualifiers.txt.intermediate
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\ProjectArchitectures.txt
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\MDILProjectFiles.xml
+D:\Julian 31 de marzo 2015 documentos\Documents\Visual Studio 2013\Projects\ClockSocial\ClockSocial\obj\Debug\XapCacheFile.xml
